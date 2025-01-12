@@ -1,27 +1,3 @@
-# core
-.DS_Store
-.env
-.env*.local
-output
-dist
-target
-.idea
-.cache
-.output
-node_modules
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-.vercel
-private
-private.*
-private-*
-p-*
-past.*
-past-*
-*.bike
-*.db
-
 .vinxi
 /build/
 /api/
@@ -32,3 +8,4 @@ past-*
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+schema/.protocols
